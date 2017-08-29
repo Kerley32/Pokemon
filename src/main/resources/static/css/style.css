@@ -1,0 +1,28 @@
+.navbar {
+	padding-top: 10px;
+}
+
+.panel-success {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.alert {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.aw-link-panel {
+	float: right;
+	padding: 0px;
+}
+
+.aw-titulo-panel {
+	float: left;
+	padding-top: 2px;
+}
+
+a {
+	color: #5C9F24;
+	font-size: 17.5px;
+}
